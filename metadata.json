@@ -1,0 +1,6 @@
+{
+  "name": "AfricaCreator",
+  "description": "Assistant de création de contenu complet pour les créateurs africains : idées, scripts, hooks, prompts vidéo/image, publicités et calendrier.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
